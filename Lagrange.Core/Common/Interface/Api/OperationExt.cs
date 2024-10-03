@@ -1,6 +1,7 @@
 using Lagrange.Core.Common.Entity;
 using Lagrange.Core.Message;
 using Lagrange.Core.Message.Entity;
+using Lagrange.Core.Internal.Event.System;
 
 namespace Lagrange.Core.Common.Interface.Api;
 
